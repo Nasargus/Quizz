@@ -1,0 +1,106 @@
+body * {
+  box-sizing: border-box;
+  border-color: lightseagreen;
+  margin: 0px;
+  padding: 10px;
+  font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif, sans-serif;
+}
+
+.header_container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px;
+}
+
+.icone_container img {
+  width: 80px;
+  padding: 20px;
+  display: flex;
+  margin-left: 10px;
+}
+
+.icone_container {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 30px;
+}
+
+.icone_container p {
+  display: flex;
+  justify-content: space-evenly;
+  margin-left: 15px;
+}
+
+.filtre {
+  position: absolute;
+  top: 50%;
+  right: 3%;
+}
+
+.first_line {
+  display: flex;
+}
+
+.carousel1 img {
+  display: flex;
+  flex-direction: column;
+  padding-left: 30px;
+  justify-items: left;
+  width: 250px;
+  padding-right: 30px;
+}
+
+.carousel1 p {
+  justify-content: center;
+  padding-left: 30px;
+  margin-top: 20px;
+}
+
+.carousel2 img {
+  display: flex;
+  flex-direction: column;
+  padding-left: 10px;
+  justify-items: left;
+  width: 250px;
+  padding-right: 30px;
+}
+
+.carousel2 p {
+  padding-left: 20px;
+  justify-content: left;
+  display: flex;
+  margin-top: 20px;
+}
+
+.carousel3 {
+  display: flex;
+  flex-direction: column;
+  padding-left: 10px;
+  justify-items: left;
+  width: 250px;
+  padding-right: 30px;
+}
+
+.carousel3 p {
+  padding-left: 20px;
+  justify-content: left;
+  display: flex;
+  margin-top: 20px;
+}
+
+.carousel4 {
+  display: flex;
+  flex-direction: column;
+  padding-left: 10px;
+  justify-items: left;
+  width: 250px;
+  padding-right: 30px;
+}
+
+.carousel4 p {
+  padding-left: 20px;
+  justify-content: left;
+  display: flex;
+  margin-top: 20px;
+}/*# sourceMappingURL=Style.css.map */
